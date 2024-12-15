@@ -10796,7 +10796,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "150K"
 			(at 81.28 121.92 90)
 			(effects
 				(font
@@ -10864,7 +10864,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10K"
 			(at 104.14 124.46 0)
 			(effects
 				(font
@@ -11239,7 +11239,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "150K"
 			(at 80.01 110.49 90)
 			(effects
 				(font
@@ -12751,7 +12751,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "10K"
 			(at 93.98 113.03 0)
 			(effects
 				(font
@@ -12898,7 +12898,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "150K"
 			(at 58.42 106.68 90)
 			(effects
 				(font
