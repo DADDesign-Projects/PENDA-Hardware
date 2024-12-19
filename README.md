@@ -1,8 +1,8 @@
-# PENDA: Platform for Effects on Daisy
+# PENDA: Platform for Effects oN DAisy
 
 Welcome to the PENDA project! This repository contains the schematics and PCB layouts created with KiCad 8.0 for a versatile digital effects platform that utilizes the **Daisy-Seed** board from **ElectroSmith**.
 
-![Image1](Images/PENDA1_300.png) ![Image2](Images/PENDA2_300.png) ![Image4](Images/PENDA4_300.png)
+![Image1](Images/PENDA2_300.png) ![Image2](Images/PENDA5_300.png) ![Image4](Images/PENDA4_300.png)
 
 ## Author
 
